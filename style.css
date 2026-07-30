@@ -1,0 +1,14 @@
+.filho1{
+    display: flex;
+    justify-content: center;
+}
+.filho2{
+    display: flex;
+    justify-content: flex-end;
+}
+.pai{
+    display: flex;
+
+
+    justify-content: center;
+}
